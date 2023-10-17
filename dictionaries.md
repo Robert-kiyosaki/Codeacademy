@@ -30,6 +30,8 @@ Eample
 # Example 
 Print the "brand" value of the dictionary:
 
+# Demo 1
+
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
